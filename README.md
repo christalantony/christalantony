@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christalantony
-- 👀 I’m interested in html,python
-- 🌱 I’m currently learning html
+- 👀 I’m interested in cloud,java
+- 🌱 I’m currently learning cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
